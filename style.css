@@ -1,0 +1,46 @@
+@font-face {
+    font-family: 'Droid Sans Mono';
+    src: URL('DroidSansMono.ttf') format('truetype');
+  }
+
+
+.av-zacal-body{
+    font-family: 'Droid Sans Mono';
+    background-color: #120f16;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.av-popup .logo{
+        max-width: 130px;
+        margin: 0 auto;
+        display: block;
+}
+.av-popup{
+    color: #fff;
+    max-width: 450px;
+    background-color: hsla( 0,0%,0% ,1);
+    margin: 15% auto; 
+    padding: 25px;
+
+}
+.av-popup .d-flex{
+    display: flex;
+    margin-top: 45px;
+    margin-bottom: 45px;
+    justify-content: center;
+}
+.av-popup .av-btn:first-of-type{
+    border-color: #ffc700;
+}
+.tnc a{
+    color: #ffc700;
+}
+.av-btn{
+    border: 1px solid;
+    color: #fff;
+    border-color: #fff;
+    padding: 10px 15px;
+    text-decoration: none;
+    margin-right: 25px;
+}
